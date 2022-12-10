@@ -30,6 +30,10 @@
 	color: rgb(96, 143, 114);
 }
 
+.section-link:hover {
+	text-decoration: underline;
+}
+
 .story {
 	border-left: 3px solid black;
 	border-bottom: 3px solid black;
