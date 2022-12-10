@@ -8,9 +8,14 @@
 
 .nav-links {
 	grid-area: nav-header;
+	border: 3px solid black;
 	display: flex;
-	margin: auto;
-	text-decoration: none;
+	justify-content: space-around;
+	align-items: center;
+	list-style: none;
+	margin: 0;
+	padding: 30px;
+	font: 30px futura;
 }
 
 .story-1 {
