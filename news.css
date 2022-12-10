@@ -45,6 +45,20 @@
 	border-right: 3px solid black;
 }
 
+.article-title {
+	text-align: center;
+	font-size: 30px;
+	font-weight: normal;
+	font-style: italic;
+	font-family: "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.article-text {
+	font-size: 21px;
+	padding: 10px;
+	font-family: "Georgia";
+}
+
 .story-1 {
 	grid-area: top-left;
 }
