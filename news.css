@@ -4,6 +4,11 @@
 
 .brand-header {
 	grid-area: brand-header;
+	text-align: center;
+	margin: 30px;
+	font-weight: normal;
+	font-family: "Impact";
+	font-size: 30px;
 }
 
 .nav-links {
