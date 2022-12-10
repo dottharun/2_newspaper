@@ -32,8 +32,9 @@
 
 .article-img {
 	display: block;
-	width: 100%;
-	padding: 20px;
+	position: center;
+	margin: auto;
+	max-width: 300px;
 }
 
 .page {
