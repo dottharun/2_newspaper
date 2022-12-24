@@ -1,2 +1,2 @@
 #Newspaper
-2nd exercise for frontend masters: CSS
+Practicing CSS
